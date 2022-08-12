@@ -1,1 +1,2 @@
-Esto es una integral modificada para un conflicto desde master
+Esto es una integral modificadad para hacer un merge con conflicto
+
