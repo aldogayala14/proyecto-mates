@@ -11,4 +11,4 @@ Cambios retomados despues del stash
 
 Esto es un fichero muy chulo
 
-Cambio desde la master para aplicar rebase
+Cambio desde la master para aplicar rebase y ha sido exitoso
