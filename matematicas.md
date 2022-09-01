@@ -12,3 +12,7 @@ Cambios retomados despues del stash
 Esto es un fichero muy chulo
 
 Cambio desde la master para aplicar rebase y ha sido exitoso
+
+##Modificacion mediante GitHub
+
+Esto es una modificacion hecho en la web
